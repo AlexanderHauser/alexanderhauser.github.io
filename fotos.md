@@ -6,4 +6,6 @@ permalink: /fotos/
 
 ![England Jurrasic Coast](/fotos/Jurrasic_Coast.jpg)
 
-<!-- ### CC Alexander Hauser
+<!-- ### © by Alexander Hauser
+
+ -->
