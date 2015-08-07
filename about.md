@@ -4,12 +4,9 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
-
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+Alexander Hauser
+Research assistent in the <a href="http://drug.ku.dk/research/biostructural_research/g_protein_coupled_receptors">Gloriamgroup</a> at the University of Copenhagen in the Department 
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[alexander.hauser@sund.ku.dk ](mailto:alexander.hauser@sund.ku.dk )
