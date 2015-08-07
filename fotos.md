@@ -1,10 +1,10 @@
 ---
 layout: page
-title: About
-permalink: /Fotos/
+title: Fotos
+permalink: /fotos/
 ---
 
-![Image description](/fotos/Jurrasic_Coast.jpg)
+![England Jurrasic Coast](/fotos/Jurrasic_Coast.jpg)
 
 <!-- ### Contact me
 
